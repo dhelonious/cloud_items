@@ -50,14 +50,6 @@ Medium schematic
 Big schematic
 ![Big schematic](https://user-images.githubusercontent.com/51391473/87363085-03bf5c80-c536-11ea-8ab5-155a931e7400.png)
 
-### Vehicles
-
-There are some nice-craftable vehicles you can ride on.\
-Here is one screenshot for each of the available vehicles:
-
-![Cloud car](https://user-images.githubusercontent.com/51391473/99441120-13ccbb80-28dd-11eb-9eb1-8af7aa699b02.png)
-![Cloud ship](https://user-images.githubusercontent.com/51391473/99441264-424a9680-28dd-11eb-8dba-fb8297fef92b.png)
-
 ### Cloud house
 
 If you go above 1500 blocks up, you may find a cloud house!\
@@ -105,7 +97,6 @@ There are 4 types of cloud:
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - [`worldedit`](https://github.com/Uberi/Minetest-WorldEdit)
   - This is required due to the `worldedit.deserialize` function.
-- [`vehicle_mash`](https://github.com/minetest-mods/vehicle_mash)
 
 ### Optional dependencies
 
